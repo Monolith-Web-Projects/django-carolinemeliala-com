@@ -1,0 +1,12 @@
+# Gunicorn
+gunicorn
+
+# Django Auth
+django-cors-headers
+python-decouple
+
+# Django Image Processing
+pillow
+
+# Supabase Integration(postgres)
+psycopg2

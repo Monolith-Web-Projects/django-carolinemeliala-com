@@ -1,0 +1,33 @@
+# Docker related
+.dockerignore
+*.dockerfile
+*.yaml
+
+# Git & documentation & VSCode
+readme.md
+.vscode/
+.git/
+.gitignore
+
+# Mac
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django Stuff
+*.sqlite3
+*.sql
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+media/
+staticfiles/
+static/
+local_settings.py
+
